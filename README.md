@@ -1,4 +1,5 @@
 # toilet
-Start toilet.py
-it's just ursina test i made and github test
+toilet.py is a github repo test
 before opening type in terminal: "pip install ursina"
+
+Spinnin' toilet
